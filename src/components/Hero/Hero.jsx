@@ -16,7 +16,7 @@ const Hero = () => {
         initial={{ transform: "scale(0)" }}
         animate={{ transform: "scale(1.1)" }}
         transition={{ damping: 6, type: "spring", stiffness: 100 }}
-        src="/public/WhatsApp Image 2024-03-26 at 1.47.14 AM-modified.png" 
+        src="/public/shimaa.png" 
         className='avatar' alt="" />
 
         <div className='icon-verified'></div>
