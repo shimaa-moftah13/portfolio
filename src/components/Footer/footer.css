@@ -1,0 +1,64 @@
+
+
+footer{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+footer div.flex{
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 0.86rem;
+}
+footer div.flex h4{
+    color: var(--title);
+    font-weight: 400;
+}
+footer div.flex h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 2rem;
+    color: var(--blue);
+}
+footer p{
+    margin-bottom: 1.80rem;
+    color: var(--subtitle);
+}
+
+
+
+
+
+
+
+
+
+footer .icons{ 
+    align-items: center;
+    justify-content: center;
+}
+
+footer .icons a{ 
+    font-size: 1.3rem;
+    margin-right: 2rem;
+    color: var(--subtitle);
+}
+footer .icons span{
+    font-size: 1.1rem;
+    margin-left: 8px;
+    font-family: "Roboto", sans-serif;
+}
+footer .icons a:hover{
+    transition: 0.3s;
+    cursor: pointer;
+    color: var(--icon-hover);
+}
+
+
+
+
+
+
+
+
