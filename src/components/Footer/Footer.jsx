@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <footer>
         <div className="flex">
-            <h4>Made with love by me,</h4>
+            <h4>Made by me,</h4>
             <h1>Shimaa Moftah</h1>
         </div>
       
@@ -18,7 +18,7 @@ const Footer = () => {
           <a href='https://github.com/shimaa-moftah13' target='_blank' className="icon icon-github">
           <span>Github</span>
           </a>
-          <a href='https://wa.me/01004939704' target='_blank' className="icon icon-whatsapp">
+          <a href='https://wa.me/+201004939704' target='_blank' className="icon icon-whatsapp">
           <span>Whatsapp</span>
           </a>
         

@@ -16,7 +16,7 @@ const Hero = () => {
         initial={{ transform: "scale(0)" }}
         animate={{ transform: "scale(1.1)" }}
         transition={{ damping: 6, type: "spring", stiffness: 100 }}
-        src="/shimaamofatah.png" 
+        src="/shimaa.jpg" 
         className='avatar' alt="" />
 
         <div className='icon-verified'></div>
@@ -45,7 +45,7 @@ const Hero = () => {
           <a href='https://github.com/shimaa-moftah13' target='_blank' className="icon icon-github">
           </a>
 
-          <a href='https://wa.me/01004939704' target='_blank' className="icon icon-whatsapp">
+          <a href='https://wa.me/+201004939704' target='_blank' className="icon icon-whatsapp">
           <span></span>
           </a>
 

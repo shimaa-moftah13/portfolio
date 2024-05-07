@@ -16,7 +16,7 @@ const ContactUs = () => {
           Get in touch
         </h2>
         <p className="sub-title">
-          I am available for freelancing work. Got a question or proposal, or
+          I am available for fulltime jop. Got a question or proposal, or
           just want to say hello? Don't be shy and message me now.
         </p>
 
